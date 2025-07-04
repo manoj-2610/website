@@ -1,5 +1,5 @@
-import Header from './Header'
-import Footer from './Footer'
+import Footer from './Footer';
+import Header from './Header';
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -8,5 +8,5 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <main className="flex-grow">{children}</main>
       <Footer />
     </div>
-  )
+  );
 }

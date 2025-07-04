@@ -6,5 +6,5 @@ export default function HomePage() {
         Digital-first legal services for startups, SMEs, and founders across Europe.
       </p>
     </div>
-  )
+  );
 }

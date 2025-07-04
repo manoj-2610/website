@@ -8,5 +8,5 @@ export default function AboutPage() {
         affordable, and scalable legal services.
       </p>
     </div>
-  )
+  );
 }
